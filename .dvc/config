@@ -1,0 +1,4 @@
+[core]
+    remote = remote-test
+['remote "remote-test"']
+    url = ..
